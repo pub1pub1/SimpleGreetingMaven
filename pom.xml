@@ -5,7 +5,7 @@
 	<artifactId>SimpleGreetingMaven</artifactId>
 	<packaging>jar</packaging>
 	<version>1.0-SNAPSHOT</version>
-	<name>SimpleGreeting</name>
+	<name>SimpleGreetingMaven</name>
 	<url>http://maven.apache.org</url>
 	<dependencies>
 		<dependency>
