@@ -2,6 +2,7 @@ package com.simple;
 
 
 
+
 /**
  * Generate a unique number
  *
